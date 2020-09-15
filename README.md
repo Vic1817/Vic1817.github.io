@@ -1,4 +1,3 @@
-# Vic1817.github.io
 <!doctype html>
 <html>
  <head>
